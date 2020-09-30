@@ -11,3 +11,8 @@ footer {
   color: rgba(0, 0, 0, 0.5);
   text-align: center;
 }
+
+#heading {
+  background-color: #393d40;
+  text-align: center;
+}
