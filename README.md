@@ -1,2 +1,2 @@
 # Psychology-counselling-portal
-A psychology website portal for integrating patients and doctors.
+A website to connect clients facing pyschological issues with best doctors in nearby area.
