@@ -5,3 +5,9 @@ body{
 .class1{
 font-style: Verdana; 
 }
+
+footer {
+  color: white;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
