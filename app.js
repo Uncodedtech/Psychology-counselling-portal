@@ -1,4 +1,4 @@
 
-app.listen(port, function() {
+app.listen(3000, function() {
   console.log("Server running");
 });
