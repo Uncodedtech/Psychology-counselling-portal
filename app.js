@@ -38,7 +38,7 @@ const listSchema = {
   items : [itemsSchema]
 };
 
-
+app.set('view engine', 'ejs');
 const data_items =[""];
 
 
