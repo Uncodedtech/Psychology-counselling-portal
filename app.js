@@ -41,26 +41,14 @@ const listSchema = {
 app.set('view engine', 'ejs');
 const data_items =[""];
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+app.use(express.static("public"));
 
 // creating schema
 
 const itemsSchema = {
   name : String
 };
+
 
 app.listen(4000, function() {
   console.log("Server running");
