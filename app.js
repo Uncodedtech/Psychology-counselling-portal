@@ -6,7 +6,7 @@ const app = express();
 const mongoose = require("mongoose");
 
 const bodyParser = require("body-parser");
-
+app.use(bodyParser.urlencoded({extended:true}))
 
 const data_items =[""];
 
