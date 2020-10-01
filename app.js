@@ -41,6 +41,27 @@ const listSchema = {
 
 const data_items =[""];
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// creating schema
+
+const itemsSchema = {
+  name : String
+};
+
 app.listen(4000, function() {
   console.log("Server running");
 });
