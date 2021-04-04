@@ -5,4 +5,4 @@ A website portal for integrating patients post Covid vaccine data to research in
 Visit the page from [here](https://uncodedtech.github.io/Psychology-counselling-portal/)
 <br>
 
-![image](https://github.com/Uncodedtech/Psychology-counselling-portal/blob/master/pics/img.jpg)
+![image](https://github.com/Uncodedtech/Psychology-counselling-portal/blob/master/pics/imgg.jpg)
