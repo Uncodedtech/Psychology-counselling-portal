@@ -11,9 +11,6 @@
             height: 5%;
             padding: 15px;
             font-weight: bold;
-                                                
-            
-
          }  
 
     .container{
@@ -24,7 +21,7 @@
     </style>    
 
 
-<!-- ======= Appointment Section ======= -->
+<!-- ======= Appointment Section of php======= -->
 <section id="appointment" class="appointment section-bg">
       <div class="container">
 
